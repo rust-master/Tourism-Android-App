@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zaryab.myapplication">
+
+    <application
+        android:name=".TravelApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/logot"
+        android:label="Locations"
+        android:roundIcon="@mipmap/logot"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MapActivity"></activity>
+        <activity android:name=".About" />
+        <activity android:name=".LocationDetail" />
+        <activity
+            android:name=".LocationList"
+            android:parentActivityName=".Home" />
+        <activity
+            android:name=".Home"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

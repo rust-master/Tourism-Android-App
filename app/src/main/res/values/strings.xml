@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="android_developer">Android Developer</string>
+    <string name="i_am_android_developer_i_am_the_one_who_knows_the_best_marketing_strategies_and_have_best_skills_to_make_your_business_famous_over_the_worldwideweb_here_you_think_who_i_am_and_the_answer_of_question_is_i_am_the_person_who_thinks_about_costumers_creativity">I am Android Developer. I am the one who knows the best marketing strategies and Have best skills to make your business famous over the worldwideweb.Here You Think who I am? And the answer of Question is I am the person who Thinks about Costumers Creativity</string>
+    <string name="_0334_7860477">0334-7860477</string>
+    <string name="zaryab">Zaryab</string>
+</resources>
